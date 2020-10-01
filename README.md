@@ -23,3 +23,5 @@ The program after being built will be saved in `-o bin/application`. Request the
   $ /bin/bash -c bin/application
 ```
 
+Documents:
+  - https://godoc.org/github.com/gin-gonic/gin
