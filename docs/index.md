@@ -1,4 +1,4 @@
-# SERVER GIN-GONIC #
+# REST API SERVER - USES GIN-GONIC FRAMEWORK #
 
 # (first step - get acquainted with REST API") #
 server with gin-gonic framework (level 1)
