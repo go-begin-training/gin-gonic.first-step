@@ -1,5 +1,9 @@
-# server gin-gonic (first step - get acquainted with REST API")
+# SERVER GIN-GONIC #
+
+# (first step - get acquainted with REST API") #
 server with gin-gonic framework (level 1)
+
+## Welcome to GitHub Pages
 
 ### How can this project run? ###
 
