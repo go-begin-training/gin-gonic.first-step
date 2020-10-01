@@ -24,8 +24,8 @@ The program after being built will be saved in `-o bin/application`. Request the
 ```
 
 Documents:
-  - https://www.mongodb.com/
-  - https://docs.mongodb.com/drivers/go/
-  - https://godoc.org/go.mongodb.org/mongo-driver/mongo
-  - https://github.com/mongodb/mongo-go-driver
-  - https://github.com/mongodb/mongo-go-driver#usage
+- https://gin-gonic.com/
+- https://gin-gonic.com/docs/
+- https://godoc.org/github.com/gin-gonic/gin
+- https://github.com/gin-gonic/gin
+- https://github.com/gin-gonic/gin#api-examples
