@@ -15,7 +15,7 @@ Next, run directly with the command:
 ```
 Or build into a program with the command:
 ```
-  $ CGO_ENABLE = 0 go build --ldflags "-extldflags \" - static \ "-s -w" -o bin/application -trimpath ./*.go
+  $ CGO_ENABLE=0 go build --ldflags "-extldflags \"-static\"-s -w" -o bin/application -trimpath ./*.go
 ```
 
 The program after being built will be saved in `-o bin/application`. Request the system to execute with the command:
