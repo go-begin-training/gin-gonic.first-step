@@ -36,4 +36,4 @@ Documents:
 
 ---
 
-Copyright (c)
+Copyright (c) [thinh-wee](https://github.com/thinh-wee).
